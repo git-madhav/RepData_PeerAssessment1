@@ -166,3 +166,7 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
+
+## Solution 
+
+Please see `PA1_template.rmd`, `PA1_template.md`, and `PA1_template.html` files in this repostory to find answers to the questions posed in this assigment. 
